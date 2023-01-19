@@ -1,5 +1,5 @@
 from django.shortcuts import render
 
 # Create your views here.
-def bookcove(request):
+def bookcover(request):
     return render(request, "designapp/bookcover.html")
