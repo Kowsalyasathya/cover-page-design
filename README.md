@@ -141,7 +141,8 @@ Edition&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 ```
 
 ## OUTPUT:
-
+![OUTPUT](./images/book.png)
 
 ## Result:
+Thus, a static web site for a book cover page is designed and displayed.
 
