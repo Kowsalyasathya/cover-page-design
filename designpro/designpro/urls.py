@@ -18,5 +18,5 @@ from django.urls import path
 from designapp import views
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('bookcover/', views.bookcover,name='bookcover'),
+    path('bookcover/', views.bookcover, name='bookcover'),
 ]
